@@ -54,11 +54,11 @@
   },
   "git": {
     "repo_type": "https",
-    "repo_username": "wdyches3",
+    "repo_username": "bakerbass",
     "ssh_key": ""
   },
   "meta": {
-    "filename": "tw_template_m5v_p5v.kicad_prl",
+    "filename": "ECE4450_FinalProject.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

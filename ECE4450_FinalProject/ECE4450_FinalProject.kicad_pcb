@@ -1287,7 +1287,7 @@
 	(footprint "SSM2164:N_16_ADI"
 		(layer "F.Cu")
 		(uuid "29231dbe-4e22-4ad0-a1c3-641f0b4141ae")
-		(at 62 58.42)
+		(at 44.958 61.214)
 		(tags "SSM2164PZ ")
 		(property "Reference" "U2"
 			(at 3.81 8.89 0)

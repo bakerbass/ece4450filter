@@ -240,7 +240,36 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "global_label_dangling|330200|635000|671ffc57-6448-4750-9aaa-f1f17bf22fc0|00000000-0000-0000-0000-000000000000|/aa8cbc1e-db6c-4bf0-9f92-6790356ab5a9||",
+        ""
+      ],
+      [
+        "global_label_dangling|330200|660400|694428bb-0979-4e66-bea5-b02234f34532|00000000-0000-0000-0000-000000000000|/aa8cbc1e-db6c-4bf0-9f92-6790356ab5a9||",
+        ""
+      ],
+      [
+        "global_label_dangling|736600|1739900|170f3020-38c9-4561-a78c-84f487590647|00000000-0000-0000-0000-000000000000|/aa8cbc1e-db6c-4bf0-9f92-6790356ab5a9||",
+        ""
+      ],
+      [
+        "global_label_dangling|736600|1765300|17af1a14-5274-42dc-8398-79a072ddc7f4|00000000-0000-0000-0000-000000000000|/aa8cbc1e-db6c-4bf0-9f92-6790356ab5a9||",
+        ""
+      ],
+      [
+        "global_label_dangling|736600|1790700|06dce26b-797d-4a0c-924c-659d170991cb|00000000-0000-0000-0000-000000000000|/aa8cbc1e-db6c-4bf0-9f92-6790356ab5a9||",
+        ""
+      ],
+      [
+        "global_label_dangling|965200|1765300|3a44ae3d-ceeb-4c9e-8fd1-7a5181510b86|00000000-0000-0000-0000-000000000000|/aa8cbc1e-db6c-4bf0-9f92-6790356ab5a9||",
+        ""
+      ],
+      [
+        "global_label_dangling|965200|1790700|08e8c5b2-6cff-4941-8ed8-0b7bef6963a0|00000000-0000-0000-0000-000000000000|/aa8cbc1e-db6c-4bf0-9f92-6790356ab5a9||",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -444,7 +473,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "ignore",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -464,7 +493,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tw_template_m5v_p5v.kicad_pro",
+    "filename": "ECE4450_FinalProject.kicad_pro",
     "version": 3
   },
   "net_settings": {

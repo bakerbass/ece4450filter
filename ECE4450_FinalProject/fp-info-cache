@@ -1,4 +1,4 @@
-24742692242538988
+24746073562334241
 Aaron_Library
 C_Axial_Aaron
 C, Axial series, Axial, Horizontal, pin pitch=7.5mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf
@@ -91223,6 +91223,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SSM2164
+N_16_ADI
+
+SSM2164PZ 
+0
+16
+16
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -92896,6 +92903,13 @@ Logo WEEE
 0
 0
 0
+TL072
+P8
+
+TL072CP 
+0
+8
+8
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
